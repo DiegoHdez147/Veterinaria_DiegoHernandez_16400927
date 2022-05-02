@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Veterinaria_DiegoHernandez_16400927</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">VETERINARIA</string>
+    <string name="nav_header_subtitle">tumascota_feliz@woof.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Buscar Mascota</string>
+    <string name="menu_gallery">Agregar Mascota</string>
+    <string name="menu_slideshow">Agregar Propietario</string>
+</resources>
